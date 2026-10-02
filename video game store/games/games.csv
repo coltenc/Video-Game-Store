@@ -1,0 +1,9 @@
+"inventory code","game name",console,price,image
+GAME-1000,Minecraft,Nintendo,19.99,"uploads/minecraft logo.jpg"
+GAME-1001,"Call of duty",Steam,59.99,"uploads/call of duty logo.jpg"
+GAME-1002,Hytale,Playstation,29.99,"uploads/hytale logo.jpg"
+GAME-1003,Palworld,Xbox,19.99,"uploads/palworld logo.jpg"
+GAME-1004,Pokemon,Nintendo,59.99,"uploads/pokemon logo.jpg"
+GAME-1005,"The Sims 4",Steam,39.99,"uploads/the sims 4 logo.png"
+GAME-1006,Terraria,Playstation,19.99,"uploads/terraria logo.jpg"
+GAME-1007,"Stardew Valley",Mac,14.99,"uploads/stardew valley logo.jpg"
